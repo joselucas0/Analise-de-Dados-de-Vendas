@@ -3,4 +3,5 @@
 
 # Estrutura do Projeto
   analise_vendas.py: Script principal para carregar, limpar, analisar e visualizar os dados de vendas.
+  
   vendas.csv: Arquivo CSV contendo os dados de vendas.
