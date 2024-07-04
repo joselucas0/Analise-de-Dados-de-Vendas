@@ -1,0 +1,14 @@
+Data,Produto,Quantidade,Faturamento,Região
+2024-01-01,Produto A,10,100.0,Região 1
+2024-01-02,Produto B,5,50.0,Região 2
+2024-02-01,Produto C,15,150.0,Região 1
+2024-03-05,Produto D,20,200.0,Região 3
+2024-04-07,Produto E,8,80.0,Região 2
+2024-05-12,Produto A,12,120.0,Região 1
+2024-06-15,Produto B,7,70.0,Região 2
+2024-07-20,Produto C,18,180.0,Região 3
+2024-08-25,Produto D,22,220.0,Região 1
+2024-09-30,Produto E,9,90.0,Região 2
+2024-10-05,Produto A,14,140.0,Região 3
+2024-11-10,Produto B,6,60.0,Região 1
+2024-12-15,Produto C,20,200.0,Região 2
